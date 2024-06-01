@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Developer Dhaval</h1>
 <h3 align="center">A designer and developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collection on **Web design projects**
 
-- 📝 Blog website [https://uiosindia.blogspot.com/](https://uiosindia.blogspot.com/)
-
 - 💬 Ask me about **HTML, CSS, JS, UI/UX design**
 
 - 📫 How to reach me **devloperdhaval@gmail.com**
 
-- 📄 MAC UI Update for project [https://uiosindia.blogspot.com/p/mac-ui-update.html](https://uiosindia.blogspot.com/p/mac-ui-update.html)
+- 📝 Blog website <a href='https://uiosindia.blogspot.com/](https://uiosindia.blogspot.com/'>View Blog</a>
+
+- 📄 MAC UI Update for project <a href='https://uiosindia.blogspot.com/p/mac-ui-update.html](https://uiosindia.blogspot.com/p/mac-ui-update.html'>View Update</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
