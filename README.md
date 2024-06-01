@@ -1,5 +1,5 @@
 ![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)
-<h1 align="center">Hi 👋, I'm Developer Dhaval</h1>
+<h1 align="center">Hi 👋, I'm Developer Dhaval (Design Code)</h1>
 <h3 align="center">A designer and developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 
